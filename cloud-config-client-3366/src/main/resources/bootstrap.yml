@@ -15,8 +15,8 @@ spring:
   rabbitmq:
     host: localhost
     port: 5672
-    username: ems
-    password: ems
+    username: guest
+    password: guest
 #服务注册到eureka地址
 eureka:
   client:
