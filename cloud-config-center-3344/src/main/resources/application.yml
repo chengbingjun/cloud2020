@@ -12,6 +12,8 @@ spring:
           ##搜索目录
           search-paths:
             - cloud-config
+          username: root
+          password: root
       #读取分支
       label: master
 
